@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fc01a27.css",
+    "main.js": "/static/js/main.0e840efc.js",
+    "static/media/pptx.pptx": "/static/media/pptx.a8d1b388dee6b4b41edd.pptx",
+    "static/media/wheat.jpg": "/static/media/wheat.f8905763f38cc5def598.jpg",
+    "static/media/fourth__pdf.pdf": "/static/media/fourth__pdf.bfdc7a83a269255d31a5.pdf",
+    "static/media/peoples.jpeg": "/static/media/peoples.4d2d81fa1c6ef83609d4.jpeg",
+    "static/media/logo.jpg": "/static/media/logo.7984321b1ee8a463cbdf.jpg",
+    "static/media/plant.jpg": "/static/media/plant.97f2748c8ea66266159e.jpg",
+    "static/media/list.svg": "/static/media/list.10028573f258d7ae30ef06b9c5c657f8.svg",
+    "static/media/director.jpg": "/static/media/director.5c56bdd4dafe68ca9dbb.jpg",
+    "static/media/Органика Мыйзамы.docx": "/static/media/Органика Мыйзамы.c94e0a67eb39f7967689.docx",
+    "static/media/Департаменттин Жобосу.docx": "/static/media/Департаменттин Жобосу.297c6504a6db3c395f4e.docx",
+    "static/media/xlsx.xlsx": "/static/media/xlsx.1da36311864873e47445.xlsx",
+    "static/media/personal.docx": "/static/media/personal.d5b438a7f5ec422051b2.docx",
+    "static/media/xlsx2.xlsx": "/static/media/xlsx2.0dce5780b6a51d9f8600.xlsx",
+    "static/media/insta.svg": "/static/media/insta.eaa957f02fe3257f3533c2d96533dc6b.svg",
+    "static/media/xlsx.svg": "/static/media/xlsx.9bd406f37506910967951d94e450f5e3.svg",
+    "static/media/tel.svg": "/static/media/tel.74359848220089b80029b261bd64a121.svg",
+    "static/media/word.svg": "/static/media/word.0b411f5eed8dfbd321d957c4047be690.svg",
+    "static/media/pptx.svg": "/static/media/pptx.019ed25cf33702a84586e7bd903e7ff8.svg",
+    "static/media/pdf.svg": "/static/media/pdf.25c2b077e56095be6d3c1bf841101a05.svg",
+    "static/media/compost.svg": "/static/media/compost.fa74f5489a9ee9b3cca1d854fdc65729.svg",
+    "static/media/facebook.svg": "/static/media/facebook.269ec09791a7fbaa6abd794da8f87347.svg",
+    "static/media/x.svg": "/static/media/x.3721b02ec61c1015e90388746e266d15.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.f61d4002b12995d8c1206e3b8bb3b523.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "static/media/plant.svg": "/static/media/plant.3f135561f77a6438a7ed3b59c79ff10d.svg",
+    "main.2fc01a27.css.map": "/static/css/main.2fc01a27.css.map",
+    "main.0e840efc.js.map": "/static/js/main.0e840efc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fc01a27.css",
+    "static/js/main.0e840efc.js"
+  ]
+}

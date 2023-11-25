@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83665008-bf70-4afe-a985-bc955cc0889a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bootstrap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,7 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="83665008-bf70-4afe-a985-bc955cc0889a" name="Default Changelist" comment="" />
@@ -35,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700900504111</updated>
-      <workItem from="1700900514160" duration="301000" />
+      <workItem from="1700900514160" duration="1212000" />
     </task>
     <servers />
   </component>
