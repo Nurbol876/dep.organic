@@ -21,7 +21,42 @@
   <component name="ChangeListManager">
     <list default="true" id="83665008-bf70-4afe-a985-bc955cc0889a" name="Default Changelist" comment="local load">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locales/KG/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/Locales/KG/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locales/RU/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/Locales/RU/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.2fc01a27.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/main.2fc01a27.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.2fc01a27.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/main.2fc01a27.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.0e840efc.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/main.0e840efc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.0e840efc.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/main.0e840efc.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.0e840efc.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/main.0e840efc.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/compost.fa74f5489a9ee9b3cca1d854fdc65729.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/compost.fa74f5489a9ee9b3cca1d854fdc65729.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/director.5c56bdd4dafe68ca9dbb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/director.5c56bdd4dafe68ca9dbb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/facebook.269ec09791a7fbaa6abd794da8f87347.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/facebook.269ec09791a7fbaa6abd794da8f87347.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fourth__pdf.bfdc7a83a269255d31a5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/fourth__pdf.bfdc7a83a269255d31a5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/getFetch.40f37ddea2378391108f.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/getFetch.40f37ddea2378391108f.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/insta.eaa957f02fe3257f3533c2d96533dc6b.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/insta.eaa957f02fe3257f3533c2d96533dc6b.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/list.10028573f258d7ae30ef06b9c5c657f8.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/list.10028573f258d7ae30ef06b9c5c657f8.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/list.d9deb5bb17ee35374c3b.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/list.d9deb5bb17ee35374c3b.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/logo.7984321b1ee8a463cbdf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/logo.7984321b1ee8a463cbdf.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/menu.f61d4002b12995d8c1206e3b8bb3b523.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/menu.f61d4002b12995d8c1206e3b8bb3b523.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/pdf.25c2b077e56095be6d3c1bf841101a05.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/pdf.25c2b077e56095be6d3c1bf841101a05.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/peoples.4d2d81fa1c6ef83609d4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/peoples.4d2d81fa1c6ef83609d4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/personal.d5b438a7f5ec422051b2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/personal.d5b438a7f5ec422051b2.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/plant.3f135561f77a6438a7ed3b59c79ff10d.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/plant.3f135561f77a6438a7ed3b59c79ff10d.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/plant.97f2748c8ea66266159e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/plant.97f2748c8ea66266159e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/pptx.019ed25cf33702a84586e7bd903e7ff8.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/pptx.019ed25cf33702a84586e7bd903e7ff8.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/pptx.a8d1b388dee6b4b41edd.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/pptx.a8d1b388dee6b4b41edd.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/tel.74359848220089b80029b261bd64a121.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/tel.74359848220089b80029b261bd64a121.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/wheat.f8905763f38cc5def598.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/wheat.f8905763f38cc5def598.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/word.0b411f5eed8dfbd321d957c4047be690.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/word.0b411f5eed8dfbd321d957c4047be690.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/x.3721b02ec61c1015e90388746e266d15.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/x.3721b02ec61c1015e90388746e266d15.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/xlsx.1da36311864873e47445.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/xlsx.1da36311864873e47445.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/xlsx.9bd406f37506910967951d94e450f5e3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/xlsx.9bd406f37506910967951d94e450f5e3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/xlsx2.0dce5780b6a51d9f8600.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/xlsx2.0dce5780b6a51d9f8600.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/Департаменттин Жобосу.297c6504a6db3c395f4e.docx" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/Департаменттин Жобосу.297c6504a6db3c395f4e.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/Органика Мыйзамы.c94e0a67eb39f7967689.docx" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/Органика Мыйзамы.c94e0a67eb39f7967689.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +80,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10\Desktop\aladin\bootstrap\build" />
       <recent name="C:\Users\Win10\Desktop\aladin\bootstrap" />
     </key>
   </component>
@@ -56,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700900504111</updated>
-      <workItem from="1700900514160" duration="2627000" />
+      <workItem from="1700900514160" duration="4007000" />
+      <workItem from="1700925061437" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="local load">
       <created>1700922665795</created>
@@ -81,6 +118,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="local load" />
