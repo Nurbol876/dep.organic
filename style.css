@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Roboto, sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.btn{
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    background: #0096ff;
+    border: 1px solid #0096ff;
+    transition: all 0.3s;
+}
+
+.btn:hover{
+    background: transparent;
+    color: #0096ff;
+    border: 1px solid #0096ff;
+}
+
+.header{
+    padding: 10px 0;
+    background-color: #383838;
+}
+
+.header-navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-title{
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.header-list{
+    display: flex;
+    column-gap: 15px;
+}
+
+.header-link{
+    color: grey;
+    transition: all 0.3s;
+}
+
+.header-link-active, .header-link:hover{
+    color: white;
+}
+
+.business{
+    padding: 50px 0;
+}
+
+.business-content{
+    display: flex;
+    align-items: center;
+    column-gap: 25px;
+}
+
+.business-image{
+    width: 55%;
+}
+
+.business-subtitle{
+    margin: 10px 0;
+}
+
+.action-cars-text{
+    background: #383838;
+    text-align: center;
+    padding: 20px 50px;
+    color: white;
+}
+
+.card{
+    margin: 20px 0;
+    width: 20%;
+    border: 1px solid grey;
+}
+
+.cards-title{
+    width: 5px;
+}
+
+.card-subtitle{
+    padding: 10px 0;
+}
+
+.card-bottom{
+    border: 1px solid grey;
+}
