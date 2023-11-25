@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83665008-bf70-4afe-a985-bc955cc0889a" name="Default Changelist" comment="" />
+    <list default="true" id="83665008-bf70-4afe-a985-bc955cc0889a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700900504111</updated>
-      <workItem from="1700900514160" duration="1611000" />
+      <workItem from="1700900514160" duration="2234000" />
     </task>
     <servers />
   </component>
@@ -67,9 +69,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="473" y="261" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1700921601433">
+    <state x="473" y="261" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1700922589605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="473" y="261" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1700921601433" />
+    <state x="473" y="261" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1700922589605" />
   </component>
 </project>
